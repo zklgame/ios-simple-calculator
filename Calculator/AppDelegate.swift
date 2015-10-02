@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Calculator
 //
-//  Created by zklgame on 15/7/23.
-//  Copyright (c) 2015年 Zhu Kaili. All rights reserved.
+//  Created by zklgame on 15/9/27.
+//  Copyright © 2015年 zklgame. All rights reserved.
 //
 
 import UIKit
